@@ -18,9 +18,9 @@ Sorting will be activated when the user click on the table header.
  
 Features
 ______________
->Sorting
->Searching
->Auto redirect
+>Sorting ,
+>Searching ,
+>Auto redirect ,
 >Token based security
 
 Dependency and tools  for this proj
