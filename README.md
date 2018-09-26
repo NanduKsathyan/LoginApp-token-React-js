@@ -25,9 +25,9 @@ ______________
 
 Dependency and tools  for this proj
 ______________________
-React js 16+
-node 8+
-Axios: - Used for api calls
+React js 16+ ,
+node 8+ ,
+Axios: - Used for api calls ,
 react-bootsrap-table-next: - searching/sorting
 
 
