@@ -1,10 +1,10 @@
 # LoginApp-Seach and Sort
 
-Inroduction
+## Inroduction
 ___________
 This is a simple react application about user authentication and fetching the data.Authentication done by using TOKEN.
 
-Content
+## Content
 ________
 
 In order to run the application first user has to  register into the following url 
@@ -16,14 +16,14 @@ Sorting will be activated when the user click on the table header.
 
  Local storage used for storing the token for future api calls.If the local storage not available user will be redirect to Login page
  
-Features
+## Features
 ______________
 >Sorting ,
 >Searching ,
 >Auto redirect ,
 >Token based security
 
-Dependency and tools  for this proj
+## Dependency and tools  for this proj
 ______________________
 React js 16+ ,
 node 8+ ,
@@ -31,7 +31,7 @@ Axios: - Used for api calls ,
 react-bootsrap-table-next: - searching/sorting
 
 
-To start
+## To start
 _________
 Clone or Download the repository.
 Type the following code into your terminal
