@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.wrap {
+  max-width: 556px;
+  margin-top: 15%;
+  
+}
+.card{
+  box-shadow: 3px 3px 3px #CCC;
+  border-radius: 5px;
+}
+.margin-top{
+  margin-top: 5%;
+  box-shadow: 3px 3px 3px #CCC;
+  border: 1px solid #CCC;
+}
+.sortable{
+  cursor: pointer;
+}
